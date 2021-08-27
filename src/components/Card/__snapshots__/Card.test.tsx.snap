@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Card component should render correctly 1`] = `
+<div>
+  <div
+    class="PokemonSingle"
+  >
+    <div
+      class="image"
+    >
+      <div
+        style="overflow: hidden; box-sizing: border-box; display: inline-block; position: relative; width: 150px; height: 150px;"
+      >
+        <noscript />
+        <img
+          alt="Charmander"
+          data-nimg="true"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </div>
+    </div>
+    <div
+      class="pokeNum"
+    >
+      #
+      004
+    </div>
+    <h2>
+      Charmander
+    </h2>
+    <div
+      class="types"
+    >
+      <div
+        class="homestyles__PokeType-sc-1nzr84s-2 eYwIIJ"
+        color="fire"
+      >
+        Fire
+      </div>
+    </div>
+  </div>
+</div>
+`;
